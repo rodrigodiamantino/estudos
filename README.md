@@ -1,4 +1,4 @@
-# Estudos ADS
+# Estudos
 
 Este espaço reúne exercícios, práticas, desafios e projetos desenvolvidos ao longo da minha jornada de aprendizado em tecnologia.
 
